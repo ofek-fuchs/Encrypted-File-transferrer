@@ -1,5 +1,5 @@
-# Encrypted-File-transferrer
-End-to-End Encrypted File transfer system 
+# Encrypted-Storage-System
+End-to-End Encrypted Encrypted-Storage-System
 
 A basic client-server system that enables user authentication and secure file storage. Clients may log in and save encrypted files in the server's database.
 
